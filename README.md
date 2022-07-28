@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemanth7723
+- 👋 Hi, I’m @Hemanth
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning front end development, java.
 - 💞️ I’m looking to collaborate on projects on web dev and mobile app development
