@@ -2,7 +2,9 @@
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning front end development, java.
 - 💞️ I’m looking to collaborate on projects on web dev and mobile app development
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
+- contact info:- mail:- hemu11042003@gmail.com
+-                linkdin:- https://www.linkedin.com/in/venkata-hemanth-palepu-723947246/
 
 
 <!---
