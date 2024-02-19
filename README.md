@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-👋Hi, I’m @Hemanth<br>👀I’m interested in Full stack Development<br>🌱I’m currently learning front end development, java.<br>💞️I’m looking to collaborate on projects on web dev and mobile app development<br></>I'm working with Data Structures and Algorithms<br>📫How to reach me ...<br>🚀contact info:- <br>📧Mail:- hemu11042003@gmail.com<br>➣Telegram:- HemanthPV<br>
+👋Hi, I’m @Hemanth<br>👀I’m interested in Full stack Development<br>🌱I’m currently learning front end development, java.<br>💞️I’m looking to collaborate on projects on web dev and mobile app development<br></>I'm working with Data Structures and Algorithms<br>📫How to reach me ...<br>🚀contact info:- <br>📧Mail:- hemu11042003@gmail.com<br>➣Telegram:- t.me/HemanthPV<br>
 
 
 ## 🌐 Socials:
