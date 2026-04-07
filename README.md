@@ -201,23 +201,19 @@
 
 [![GFG Badge](https://img.shields.io/badge/GeeksForGeeks-hemu110htp4-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/hemu110htp4/)
 
-</div>
-
----
+</div> -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    GITHUB TROPHIES                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hemanth7723&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1)](https://github.com/Hemanth7723)
 
 </div> -->
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CERTIFICATIONS                          -->
