@@ -135,7 +135,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hemanth7723&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Hemanth7723&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth7723&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" height="170"/>
 
@@ -143,7 +143,7 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Hemanth7723&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth7723&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8" />
 
@@ -166,45 +166,6 @@
 </picture>
 
 </div>
-
-<details>
-<summary>⚙️ <b>One-time setup: Click to generate the Snake animation</b></summary>
-
-<br/>
-
-Create the file `.github/workflows/snake.yml` inside your `Hemanth7723/Hemanth7723` repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:        # allows manual trigger
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Hemanth7723
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After committing, go to **Actions → Generate Snake Animation → Run workflow**. The snake will appear above and auto-refresh daily! 🐍
-
-</details>
 
 ---
 
