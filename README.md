@@ -44,14 +44,14 @@
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🏢 **Software Engineer** @ **Ford Motor Company** — Platform Engineering
+- 🏢 **Software Engineer** @ **Ford Motor Company** — Platform Engineering Team
 - 🎓 **Integrated M.Tech in CS** from VIT Vellore · CGPA: **8.48 / 10**
 - 🔧 Building **Java Spring Boot microservices** for real-time health validation across environments
-- ⚡ REST-based health check APIs delivering validation in **under 5 seconds**
-- 🌱 Currently deepening expertise in **Cloud (GCP)**, **DevOps**, and **Test Automation**
+- ⚡ REST-based health check APIs delivering validation decreased **time by 90%**
+- 🌱 Currently deepening expertise in **Spring boot**,**Cloud (GCP)**, **DevOps**, and **Automation**
 - 🤝 Open to collaborate on **web dev**, **mobile apps**, and **backend systems**
 - 💡 Strong in **DSA**, **System Design**, **DBMS**, and **Networking**
-- 📫 Reach me → [hemu11042003@gmail.com](mailto:hemu11042003@gmail.com) · [@HemanthPV on Telegram](https://t.me/HemanthPV)
+- 📫 Reach me → [mail](mailto:hemu11042003@gmail.com) or [linkedin](https://www.linkedin.com/in/venkata-hemanth-palepu-723947246/)
 
 <br clear="right"/>
 
