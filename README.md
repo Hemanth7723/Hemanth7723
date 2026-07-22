@@ -128,48 +128,6 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Hemanth7723&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth7723&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" height="170"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Hemanth7723&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/><br/> -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth7723&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              🐍 SNAKE EATS MY CONTRIBUTIONS 🐍             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanth7723/Hemanth7723/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemanth7723/Hemanth7723/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Hemanth7723/Hemanth7723/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     LEETCODE STATS                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
